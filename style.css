@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(142, 73, 73);
+    text-align: center;
+}
+.container{
+    height: 70vh;
+}
